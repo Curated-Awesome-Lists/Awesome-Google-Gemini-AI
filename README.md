@@ -66,6 +66,7 @@ Note: as Google Gemini AI is still in its early stages, the awesome list will be
 
 ## Online Courses
 
+- [Gemini By Example](https://geminibyexample.com): Learn Gemini's Python SDK through minimal and simple annotated code examples.
 - [Google Gemini AI Masterclass: The Ultimate Guide NEW 2024](https://www.udemy.com/course/google-gemini-ai-masterclass/): Develop skills to customize, build, and scale generative AI applications using Gemini Pro. This course covers everything from basic to advanced generative artificial intelligence on Google Gemini.
 - [Gemini AI: The Complete Guide with Bard | Udemy](https://www.udemy.com/course/google-gemini-ai-the-complete-guide-with-bard/): Unlocking Google Gemini AI with Bard. Gain expertise in text generation, practical use cases, and advanced image analysis.
 - [Social Media Growth: Use ChatGPT & Google Gemini AI in 2024](https://www.udemy.com/course/social-media-chatgpt-gemini-ai/): Harness Canva AI tools to incorporate artificial intelligence into design processes. Unleash the Power of Gemini AI and ChatGPT to elevate social media on platforms like Instagram, Facebook, TikTok, YouTube, and more.
