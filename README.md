@@ -19,6 +19,7 @@ Note: as Google Gemini AI is still in its early stages, the awesome list will be
 - [Slides & Presentations](#slides-&-presentations)
 - [Podcasts](#podcasts)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Zero-install MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `score_agent`, `preflight_check`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## GitHub projects
 
 - [LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone with various features including OpenAI, Assistants API, Azure, GPT-4 Vision, and Google Gemini. It is open-source for self-hosting. ⭐️⭐️⭐️⭐️⭐️
