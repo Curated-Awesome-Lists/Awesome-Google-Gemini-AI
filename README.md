@@ -41,6 +41,7 @@ Note: as Google Gemini AI is still in its early stages, the awesome list will be
 - [Google Gemini UI](https://github.com/fjosue4/google-gemini-ui): Basic UI to chat with Google Gemini AI.
 - [IntelliChat](https://github.com/intelligentnode/IntelliChat): Modern AI chatbot supporting multiple language models, including Google Gemini and ChatGPT.
 - [Hermex](https://github.com/pseudo-usama/hermex): Python library for automating ChatGPT and Gemini via browser automation without API keys or billing. ⭐️
+- [Gemini for Windows](https://github.com/ishimuraxxx-ai/gemini-for-windows): Unofficial open-source desktop app that opens Google AI Mode (Gemini) in its own clean Windows window, with voice input in 55 languages. A single small exe built on Microsoft Edge. ⭐️
 
 ## Articles & Blogs
 
