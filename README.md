@@ -151,6 +151,7 @@ Gemini is Google's most capable AI model designed to be helpful for everyone. In
 - [Google Duet AI](https://alternativeto.net/software/google-duet-ai/about/): A powerful collaborator and productivity booster in Google Workspace, now merged into Google Gemini.
 - [ChatGPT vs. Duet AI vs. Gemini Comparison](https://sourceforge.net/software/compare/ChatGPT-vs-Duet-AI-vs-Gemini-Google/): Side-by-side comparison of ChatGPT, Duet AI, and Gemini, analyzing price, features, and reviews.
 - [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3): Access Google's best family of AI models on your phone with Gemini (formerly Google Bard).
+- [Prompt Generator for Gemini](https://trypromptgenerator.com/gemini-prompt-generator): Free prompt generator that writes prompts for Gemini, with options for tone, length and detail. It also covers ChatGPT, Claude, Nano Banana, Veo and other AI tools. 10 free prompts a day without an account.
 
 ## Conferences & Events
 
