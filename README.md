@@ -151,6 +151,7 @@ Gemini is Google's most capable AI model designed to be helpful for everyone. In
 - [Google Duet AI](https://alternativeto.net/software/google-duet-ai/about/): A powerful collaborator and productivity booster in Google Workspace, now merged into Google Gemini.
 - [ChatGPT vs. Duet AI vs. Gemini Comparison](https://sourceforge.net/software/compare/ChatGPT-vs-Duet-AI-vs-Gemini-Google/): Side-by-side comparison of ChatGPT, Duet AI, and Gemini, analyzing price, features, and reviews.
 - [Gemini & Gemini Advanced](https://www.producthunt.com/posts/gemini-gemini-advanced-3): Access Google's best family of AI models on your phone with Gemini (formerly Google Bard).
+- [NextJSON](https://nextjson.com/): Free online nested JSON parser and formatter, handy for inspecting and debugging JSON responses from the Gemini API.
 
 ## Conferences & Events
 
